@@ -18,6 +18,6 @@
 1. [Redis 数据结构](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 2. [Redis 的过期淘汰策略和内存淘汰策略](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%E7%9A%84%E8%BF%87%E6%9C%9F%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5%E5%92%8C%E5%86%85%E5%AD%98%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5.md)
 3. [Redis 持久化策略](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E6%8C%81%E4%B9%85%E5%8C%96%E7%AD%96%E7%95%A5%E7%AE%80%E6%9E%90.md)
-4. [Redis 线程模型](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B)
+4. [Redis 线程模型](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B.md)
 ## 其他
 1. [雪花算法](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/%E9%9B%AA%E8%8A%B1%E7%AE%97%E6%B3%95.md)
