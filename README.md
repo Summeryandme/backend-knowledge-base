@@ -8,6 +8,7 @@
 ## 计算机网络
 1. [TCP 拥塞机制](https://github.com/Summeryandme/java-knowledge-base/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP%20%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6.md)
 2. [HTTP 的进化史 和 HTTPS](https://github.com/Summeryandme/java-knowledge-base/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/HTTP%20的进化史%20和%20HTTPS.md)
+3. [为什么断网了还能 ping 通 127.0.0.1](https://github.com/Summeryandme/java-knowledge-base/blob/main/为什么断网了还能%20ping%20通%20127.0.0.1.md)
 ## JVM
 1. [类的生命周期](https://github.com/Summeryandme/java-knowledge-base/blob/main/JVM/%E7%B1%BB%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 2. [JVM GC](https://github.com/Summeryandme/java-knowledge-base/blob/main/JVM/JVM%20GC.md)
