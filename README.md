@@ -25,3 +25,4 @@
 ## 其他
 1. [雪花算法](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/%E9%9B%AA%E8%8A%B1%E7%AE%97%E6%B3%95.md)
 2. [一致性哈希](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/一致性哈希.md)
+3. [LRU 算法的缺陷与改进](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/LRU%20算法的缺陷与改进.md)
