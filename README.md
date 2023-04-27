@@ -17,6 +17,7 @@
 1. [MVCC 机制详解](https://github.com/Summeryandme/java-knowledge-base/blob/main/RDBMS/MVCC.md)
 2. [开发一个简易的 DB 分库分表路由中间件](https://github.com/Summeryandme/java-knowledge-base/blob/main/RDBMS/%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E7%9A%84%20DB%20%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E8%B7%AF%E7%94%B1%E4%B8%AD%E9%97%B4%E4%BB%B6.md)
 3. [SQL 执行顺序](https://github.com/Summeryandme/java-knowledge-base/blob/main/RDBMS/SQL%20%E8%AF%AD%E5%8F%A5%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.md)
+4. [事务处理](https://github.com/Summeryandme/java-knowledge-base/blob/main/RDBMS/事务处理.md)
 ## Redis
 1. [Redis 数据结构](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 2. [Redis 的过期淘汰策略和内存淘汰策略](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%E7%9A%84%E8%BF%87%E6%9C%9F%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5%E5%92%8C%E5%86%85%E5%AD%98%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5.md)
