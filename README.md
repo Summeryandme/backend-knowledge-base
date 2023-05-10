@@ -1,5 +1,5 @@
-# java-knowledge-base
-在工作和学习中积累的个人知识库
+# backend-knowledge-base
+在工作和学习中积累的一些知识
 ## Java 基础
 1. [Java synchronized 锁升级详解](https://github.com/Summeryandme/java-knowledge-base/blob/main/java-fundamental/Java%20%E9%94%81%E5%8D%87%E7%BA%A7.md)
 2. [Springboot 自动装配流程](https://github.com/Summeryandme/java-knowledge-base/blob/main/java-fundamental/SpringBoot%20%E8%87%AA%E5%8A%A8%E8%A3%85%E9%85%8D.md)
