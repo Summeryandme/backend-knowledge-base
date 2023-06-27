@@ -24,8 +24,7 @@
 3. [Redis 持久化策略](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E6%8C%81%E4%B9%85%E5%8C%96%E7%AD%96%E7%95%A5%E7%AE%80%E6%9E%90.md)
 4. [Redis 线程模型](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B.md)
 ## 分布式相关
-1. [分布式系统链路追踪简单概念](https://github.com/Summeryandme/java-knowledge-base/blob/main/分布式相关/
-分布式系统链路追踪简单概念.md)
+1. [分布式系统链路追踪简单概念](https://github.com/Summeryandme/java-knowledge-base/blob/main/分布式相关/分布式系统链路追踪简单概念.md)
 ## 其他
 1. [雪花算法](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/%E9%9B%AA%E8%8A%B1%E7%AE%97%E6%B3%95.md)
 2. [一致性哈希](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/一致性哈希.md)
