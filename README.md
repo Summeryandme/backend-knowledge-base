@@ -30,3 +30,4 @@
 2. [一致性哈希](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/一致性哈希.md)
 3. [LRU 算法的缺陷与改进](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/LRU%20算法的缺陷与改进.md)
 4. [分布式事务](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/分布式事务.md)
+5. [设计一个短链接系统](https://github.com/Summeryandme/java-knowledge-base/blob/main/common/设计一个短链接系统.md)
