@@ -5,7 +5,7 @@
 2. [Springboot 自动装配流程](https://github.com/Summeryandme/java-knowledge-base/blob/main/java-fundamental/SpringBoot%20%E8%87%AA%E5%8A%A8%E8%A3%85%E9%85%8D.md)
 3. [线程池的四种拒绝策略](https://github.com/Summeryandme/java-knowledge-base/blob/main/java-fundamental/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E6%8B%92%E7%BB%9D%E7%AD%96%E7%95%A5.md)
 4. [volatile 详解](https://github.com/Summeryandme/java-knowledge-base/blob/main/java-fundamental/volatile%20详解.md)
-5. [AQS] (https://github.com/Summeryandme/java-knowledge-base/blob/main/java-fundamental/AQS.md)
+5. [AQS](https://github.com/Summeryandme/java-knowledge-base/blob/main/java-fundamental/AQS.md)
 ## 计算机网络
 1. [TCP 拥塞机制](https://github.com/Summeryandme/java-knowledge-base/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP%20%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6.md)
 2. [HTTP 的进化史 和 HTTPS](https://github.com/Summeryandme/java-knowledge-base/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/HTTP%20的进化史%20和%20HTTPS.md)
