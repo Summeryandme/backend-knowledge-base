@@ -24,6 +24,7 @@
 2. [Redis 的过期淘汰策略和内存淘汰策略](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%E7%9A%84%E8%BF%87%E6%9C%9F%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5%E5%92%8C%E5%86%85%E5%AD%98%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5.md)
 3. [Redis 持久化策略](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E6%8C%81%E4%B9%85%E5%8C%96%E7%AD%96%E7%95%A5%E7%AE%80%E6%9E%90.md)
 4. [Redis 线程模型](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B.md)
+5. [Redis 对象机制](https://github.com/Summeryandme/java-knowledge-base/blob/main/Redis/Redis%20对象机制.md)
 ## 分布式相关
 1. [分布式系统链路追踪简单概念](https://github.com/Summeryandme/java-knowledge-base/blob/main/分布式相关/分布式系统链路追踪简单概念.md)
 ## 其他
